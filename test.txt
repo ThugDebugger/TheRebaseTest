@@ -8,8 +8,6 @@ Play
 
 Another Test 
 
-<<<<<<< HEAD
-Testing Andrew !
-=======
+
 Andrew Test Two
->>>>>>> test1
+
